@@ -137,7 +137,7 @@ using the ImageMagick library only link against these libraries because the
 ImageMagick library demands it.
 
 Through testing we have found that if the 'ltconfig' archive_cmds definition
-is ammended to include $deplibs that linked programs become much smaller (1/3
+is amended to include $deplibs that linked programs become much smaller (1/3
 to 1/4 the original size).  This appears to be because more code is included
 in the shared library itself, avoiding the need for this to be part of the
 program.
