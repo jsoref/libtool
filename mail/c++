@@ -294,7 +294,7 @@ Problem:
  (output of simple conffigure is attached.)
 
   and in reality, the process of linking CC library is different,
- becouse generation of templates can be doing on stage of linking.
+ because generation of templates can be doing on stage of linking.
 
  In general, command for linking is 
  CC -xar -o$(LIBNAME) $(CXXFLAGS) $(OBJECTS)
