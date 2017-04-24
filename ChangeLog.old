@@ -1666,7 +1666,7 @@
 	supports that.
 	* tests/getopt-m4sh.at: New tests for getopt.m4sh coverage.
 	* Makefile.am (TESTSUITE_AT): Add getopt-m4sh.at.
-	(TESTS_ENVIRONMENT): Pass M4SH and SED for substition into the
+	(TESTS_ENVIRONMENT): Pass M4SH and SED for substitution into the
 	m4sh expansion performed in tests/getopt-m4sh.at.
 
 2010-06-27  Gary V. Vaughan  <gary@gnu.org>
