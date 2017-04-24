@@ -231,7 +231,7 @@ third number, so:
     2.4.2
 
 If we make an alpha quality prerelease, we use a fourth number for the
-number of changsets applied since the version it's based on:
+number of changesets applied since the version it's based on:
 
     2.4.2.418
 
