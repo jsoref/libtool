@@ -1715,7 +1715,7 @@ scriptversion=2016-03-06.01; # UTC
 ## -------------- ##
 
 # You should override these variables in your script after sourcing this
-# file so that they reflect the customisations you have added to the
+# file so that they reflect the customizations you have added to the
 # option parser.
 
 # The usage line for option parsing errors and the start of '-h' and
@@ -5397,7 +5397,7 @@ func_add_hook func_validate_options bootstrap_validate_options
 
 
 ## -------------------------------------------------- ##
-## Source package customisations in 'bootstrap.conf'. ##
+## Source package customizations in 'bootstrap.conf'. ##
 ## -------------------------------------------------- ##
 
 # Override the default configuration, if necessary.
