@@ -18282,7 +18282,7 @@
 2000-02-23  Gary V. Vaughan  <gary@gnu.org>
 
 	* ltconfig.in (old_MAGIC, old_STRIP, old_reload_flag,
-	old_deplibs_check_method, old_file_magic_cmd):  New variabes.
+	old_deplibs_check_method, old_file_magic_cmd):  New variables.
 	Treat these as old_CC etc.
 	(STRIP, MAGIC): Create and set these variables in the generated
 	libtool script.
