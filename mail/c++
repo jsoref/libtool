@@ -156,8 +156,8 @@ Thanks, it's a pleasure to hear such comments ;)
 > My pleasure!  Thanks for using it, :)
 BTW: Perhaps you remember, I once contacted you because of some problems
 with C++ and static objects in shared libs. I found out (or read in a
-news group), that most compilers on such plattforms do some magic before
-calling the linker. So, what libtool have to do to support such plattforms
+news group), that most compilers on such platforms do some magic before
+calling the linker. So, what libtool have to do to support such platforms
 (Solaris, FreeBSD and perhaps some more), is to call the compiler and not
 the linker to create C++ shared libs.
 CC (under Solaris) has the same options then the linker, but should create
