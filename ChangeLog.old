@@ -10609,7 +10609,7 @@
 
 2004-11-17  Mats Rynge  <rynge@isi.edu>
 
-	* libtool.m4 [linux]: Use only the CC basename in case statment
+	* libtool.m4 [linux]: Use only the CC basename in case statement
 	when checking for icc/ecc.  Allows for setting CC to the full path
 	to the compiler.
 
