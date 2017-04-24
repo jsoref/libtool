@@ -8586,7 +8586,7 @@
 
 2005-09-01  Peter O'Gorman  <peter@pogma.com>
 
-	* libltdl/m4/libtool.m4 (old_postintall_cmds): chmod 644 before
+	* libltdl/m4/libtool.m4 (old_postinstall_cmds): chmod 644 before
 	running ranlib.
 	Reported by Gerald Pfeifer <gerald@pfeifer.com>
 
