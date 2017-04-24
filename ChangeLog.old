@@ -13702,7 +13702,7 @@
 	add it to some quotation loops to prevent early expansion, and
 	then add a block to _LT_CONFIG_COMMANDS to bring it into the
 	libtool script.  The new way is to mark shell variables for
-	propogation using _LT_DECL for language independent variables, or
+	propagation using _LT_DECL for language independent variables, or
 	_LT_TAGDECL for those that need to be propagated in several
 	language flavours.  The marking can be done in the macro that
 	probes the variables, and this new m4 machinery takes care of
@@ -13739,7 +13739,7 @@
 	previously.
 	(AC_PROG_SED): Renamed from LT_AC_PROG_SED.
 	(LT_AC_PROG_SED): Wrap AC_PROG_SED, and mark shell variables for
-	propogation to the libtool script.
+	propagation to the libtool script.
 
 2004-01-07  Gary V. Vaughan  <gary@gnu.org>
 
