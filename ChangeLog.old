@@ -2029,7 +2029,7 @@
 	* NEWS: s/ romoted/ promoted/ in the 2.2.8 release notes.
 
 	Don't warn about the blank line inserted into git commit message.
-	* clcommit.m4sh: When searching for accidental commits of mutliple
+	* clcommit.m4sh: When searching for accidental commits of multiple
 	changes, ignore the second line of the message, which we inserted
 	earlier to support "git log --oneline".
 
