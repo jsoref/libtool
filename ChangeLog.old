@@ -20289,7 +20289,7 @@
 	  and thread_safe_flag_spec, renamed all AM_ENABLE/DISABLE_* macros
 	  to AC_*, documented AC_DISABLE_FAST_INSTALL and AC_LIBTOOL_DLOPEN
 	* libltdl/ltdl.c: added two new error messages (cannot_open_error,
-	  cannot_close_error), use them where approriate,
+	  cannot_close_error), use them where appropriate,
 	  BeOS support (thanks to Xavier Pianet), on BeOS search modules
 	  additionally in ADDON_PATH
 	* libtool.m4: rewrote AC_CHECK_LIBM: BeOS and Cygwin don't have
