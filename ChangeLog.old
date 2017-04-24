@@ -1946,7 +1946,7 @@
 	* clcommit.m4sh, libltdl/config/announce-gen.sh: Instead of
 	`$opt_debug && ...', use `test "$opt_debug" != ":" && ...'.
 	* clcommit.m4sh, libltdl/config/announce-gen.m4sh,
-	libltdl/config/getopt.m4sh, libltdl/connfig/mailnotify.m4sh:
+	libltdl/config/getopt.m4sh, libltdl/config/mailnotify.m4sh:
 	Execute at the start of functions to cater to ksh, which
 	resets `-x' inside shell functions.
 
@@ -9147,7 +9147,7 @@
 
 2005-06-21  Peter O'Gorman  <peter@pogma.com>
 
-	* conig/ltmain.m4sh [darwin]: Accept -arch flag.
+	* config/ltmain.m4sh [darwin]: Accept -arch flag.
 
 2005-06-18  Ralf Wildenhues  <Ralf.Wildenhues@gmx.de>
 
