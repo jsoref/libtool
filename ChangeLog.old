@@ -14939,7 +14939,7 @@
 2003-02-24  Robert Boehne  <rboehne@gnu.org>
 
 	* libltdl/configure.ac: Use AC_CONFIG_AUX_DIR([.]) to place
-	auxilary files in the libltdl directory.
+	auxiliary files in the libltdl directory.
 	* Makefile.am: Add to the ltmain.sh rule to copy it into the
 	libltdl subdirectory.
 	* bootstrap: Explicitly handle ltmain.sh in libltdl, and pass
