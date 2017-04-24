@@ -17203,7 +17203,7 @@
 2001-03-31  Gary V. Vaughan  <gary@gnu.org>
 
 	* ltmain.in: Remove the code for stripping duplicate deplibs
-	from libtool link lines -- duplicates are somtimes necessary
+	from libtool link lines -- duplicates are sometimes necessary
 	to satisfy inter-library dependencies, and never cause link to
 	fail even if they are spurious.
 	* tests/depdemo-dups.test: New file.  Make sure this bug doesn't
