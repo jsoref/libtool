@@ -4385,7 +4385,7 @@
 	/usr/local/share/aclocal paths to point into the uninstalled
 	libtool macro directory.
 	* tests/libtoolize.at: Update tests that were checking for old
-	behaviour of outputing `file is already up to date' even when
+	behaviour of outputting `file is already up to date' even when
 	--force was not passed.
 	* tests/libtoolize.at: New tests to prevent regressions of these
 	smarter messages.
