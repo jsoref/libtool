@@ -13472,7 +13472,7 @@
 
 2004-02-04  Peter O'Gorman  <peter@pogma.com>
 
-	* ltmain.in (infer_tag): Move tag inferrence to a shell function.
+	* ltmain.in (infer_tag): Move tag inference to a shell function.
 	Also test $base_compile against $CC with escaped arguments. Bug
 	reported by Geoff Keating <geoffk@apple.com>.
 
@@ -14443,7 +14443,7 @@
 2003-10-05  Peter O'Gorman <peter@pogma.com>,
 	Gary V. Vaughan  <gary@gnu.org>
 
-	* ltmain.in: Remove inferrence of mode, add shorthand for mode
+	* ltmain.in: Remove inference of mode, add shorthand for mode
 	choice.
 
 	* ltmain.in: Specifying -allow-undefined is now an error.
