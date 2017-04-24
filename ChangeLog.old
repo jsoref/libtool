@@ -22093,7 +22093,7 @@
 1999-01-08  Gary V. Vaughan  <gary@gnu.org>
 
 	* doc/libtool.texi (old_archive_from_new_commands): Documented
-	this ltcofig variable.
+	this ltconfig variable.
 
 1999-01-07  Gary V. Vaughan  <gary@gnu.org>
 
