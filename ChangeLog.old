@@ -11896,7 +11896,7 @@
 	We have had shell functions in ltmain.in for a few years without
 	complaint now, and recently a few more have crept in.  Make a
 	start at refactoring the code with shell functions, and
-	standardising on option parsing style:
+	standardizing on option parsing style:
 
 	* config/ltmain.in (func_echo, func_verbose, func_error)
 	(func_fatal_error, func_fatal_help, func_missing_arg)
