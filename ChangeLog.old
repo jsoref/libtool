@@ -16151,7 +16151,7 @@
 	(try_dlopen): Renamed from lt_dlopen() and changed to have the
 	same footprint as tryall_dlopen.  This involved a minor rewrite of
 	much of the internals of this function.
-	(lt_dlopen): A new function wrapped arounf try_dlopen().
+	(lt_dlopen): A new function wrapped around try_dlopen().
 	(lt_dlopenext): If a file already has a suitable extension, don't
 	bother adding additional extensions and trying to open those.
 	Tidy up the rest of the code to prevent continued searching with
