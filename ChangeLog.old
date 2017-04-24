@@ -3751,7 +3751,7 @@
 
 2008-10-15  Ralf Wildenhues  <Ralf.Wildenhues@gmx.de>
 
-	Fix Autoconf 2.59 incompatibilty.
+	Fix Autoconf 2.59 incompatibility.
 	* libltdl/m4/ltdl.m4 (_LTDL_SETUP): m4_pattern_allow
 	`LT_LIBEXT'; Autoconf 2.59's AC_DEFINE* macros didn't do this
 	automatically yet.
@@ -21285,7 +21285,7 @@
 	  to lt_dlopen(), allocate the directory in lt_dlopen() dynamically,
 	  minor cleanups, fixed memory leak (name)
 	* libtool.m4: renamed all AM_ macros to AC_ and added aliases for
-	  compatibilty, updated AC_SYS_NM_PARSE (no undefined symbols,
+	  compatibility, updated AC_SYS_NM_PARSE (no undefined symbols,
 	  don't count the symbols)
 	* ltconfig.in: added thread_safe_flag_spec (not used yet),
 	  added generic variable for linker options "linkopts" in
