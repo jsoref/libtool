@@ -12301,7 +12301,7 @@
 	internal lt__handle type.
 	(try_dlopen, tryall_dlopen, load_deplibs, unload_deplibs): Ditto.
 	(lt_dlexit, lt_dlclose, lt_dlsym): Use lt__handle to iterate
-	throught the handle list.
+	through the handle list.
 	(try_dlopen): Use lt__zalloc instead of MALLOC and memset.
 	* libltdl/ltdl.h (lt_dlcaller_id): Be truly opaque with a void *.
 	(lt_dlhandle_interface): New callback type for filtering handles
