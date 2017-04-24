@@ -9129,7 +9129,7 @@
 2005-06-28  Stepan Kasal  <kasal@ucw.cz>
 
 	* clcommit.m4sh: "grep|sed" can be replaced by mere "sed".
-	* m4/libtool.m4 (_LT_LIBTOOL_TAGS): Remove unnnecessary "[]".
+	* m4/libtool.m4 (_LT_LIBTOOL_TAGS): Remove unnecessary "[]".
 	* m4/lt~obsolete.m4: Use m4_ifndef.
 
 2005-06-27  Stepan Kasal  <kasal@ucw.cz>
@@ -18538,7 +18538,7 @@
 	* ltmain.in: change to the builddir before relinking programs
 
 	* ltmain.in, ltconfig.in, libtool.m4, ltdl.m4:
-	  remove unnessary spaces from line endings
+	  remove unnecessary spaces from line endings
 
 2000-01-19  Thomas Tanner  <tanner@ffii.org>
 
