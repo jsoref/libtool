@@ -15583,7 +15583,7 @@
 	always_export_symbols=no -- it is unnecessary thanks to
 	binutils' auto-export magic.
 	* libltdl/ltdl.c: Don't force cygwin to use the LoadLibrary
-	wrapper; use cygwin's builtin implementatino of dl*.
+	wrapper; use cygwin's builtin implementation of dl*.
 	* cdemo/Makefile.am: the downside of unsetting
 	'allow_undefined_flag' -- we must include -no-undefined
 	in the _la_LDFLAGS variable.
