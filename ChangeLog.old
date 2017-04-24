@@ -20958,7 +20958,7 @@
 	(delay_variable_subst): New sed expression to allow us to delay
 	evaluation of $foo in a double_quote_subst evaluated variable by
 	using \$.
-	* ltmain.in (export_symbols_cmds): evaluate each ~ delimitted cmd
+	* ltmain.in (export_symbols_cmds): evaluate each ~ delimited cmd
 	separately.
 	* doc/libtool.texi (libtool script contents): new paragraph to
 	explain the difference between _cmd and _cmds suffixes for
