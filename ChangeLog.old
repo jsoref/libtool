@@ -12441,7 +12441,7 @@
 	make originator focused preloading possible.  *BREAKS BACKWARDS
 	COMPATIBILITY*
 	(lt_dlloader_add): Take advantage of new fields to simplify
-	paramater list.
+	parameter list.
 	* libltdl/lt_system.h (LT_STR): New ANSI stringification macro.
 	(LT_CONC): Fix it to work from within macros.
 	* libltdl/ltdl.c (loader_init, loader_init_callback): Simplify
