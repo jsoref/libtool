@@ -227,7 +227,7 @@ about missing references.  The problem occurs because libtool renames
 the object
 files from xxx.o to xxx.lo. The SUN C++ compiler builds for himself a
 Template.DB
-and this somehow doens't match anymore with the object file.
+and this somehow doesn't match anymore with the object file.
 
 Have you ever heard of this problem and do you eventually already have
 a solution?
