@@ -16994,7 +16994,7 @@
 	* ltmain.in (ILD): build a static-only module if it has
 	  static libraries in its dependencies (so that libltdl can
 	  safely load dependency_libs)
-	* ltmain.in (argument parsing): prefix comparsions of -l args with X,
+	* ltmain.in (argument parsing): prefix comparisons of -l args with X,
 	  replace -lc with `-framework System' _after_ the ILD passes
 	* ltmain.in (argument parsing): support dl[pre]open
 	  for both .o and .lo files
