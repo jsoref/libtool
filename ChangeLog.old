@@ -22911,7 +22911,7 @@
 1998-11-04  Gary V. Vaughan  <gary@gnu.org>
 
 	* demo/configure.in: added AC_EXEEXT macro so that the tests can
-	work on cywin32/mingw32 hosts.  This requires the current CVS
+	work on cygwin32/mingw32 hosts.  This requires the current CVS
 	autoconf
 
 1998-11-04  Thomas Tanner  <tanner@gmx.de>
