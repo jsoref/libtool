@@ -12488,7 +12488,7 @@
 	* libltdl/ltdl.h (lt_dlinfo): Move private module field to here...
 	* libltdl/ltdl.c (lt_dlhandle_struct): ...from here.  Changed all
 	callers.
-	* libltdl/loader-loadlibrary.c (sys_wll_open): Use new inteface to
+	* libltdl/loader-loadlibrary.c (sys_wll_open): Use new interface to
 	scan loaded handle->info.module fields for previously loaded
 	modules.
 	* doc/libtool.texi (User defined module data): Document changes to
