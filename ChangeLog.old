@@ -6911,7 +6911,7 @@
 2006-08-03  Ralf Menzel  <menzel@ls6.cs.uni-dortmund.de>
 
 	* libltdl/m4/libtool.m4 (_LT_SYS_HIDDEN_LIBDEPS): Fix issues
-	with previous patch. for ... do' line is superflous. Need
+	with previous patch. for ... do' line is superfluous. Need
 	_LT_TAGVAR not _LT_AC_TAGVAR, should be for both linux and
 	solaris with Sun compiler.
 
