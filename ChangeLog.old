@@ -20874,7 +20874,7 @@
 	* TODO: removed ILD, soon to be merged, and added convenience
 	libraries docs
 
-	* ltconfig.in (irix5*, irix6*, shlibpath_overides_runpath): yes
+	* ltconfig.in (irix5*, irix6*, shlibpath_overrides_runpath): yes
 
 	* ltmain.in: remove on-demand executable in the proper place, and
 	just warn if it can't be removed; add wrapper code to test whether
