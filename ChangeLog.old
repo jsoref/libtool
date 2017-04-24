@@ -24907,7 +24907,7 @@ Thu May 28 18:59:08 1998  Ian Lance Taylor  <ian@cygnus.com>
 	* ltmain.sh.in (compile): Support `.S' (preprocessed assembler)
 	files.  Reported by Anthony Green.
 
-	* libtoolize.in: Give clearer instrutions for how to update
+	* libtoolize.in: Give clearer instructions for how to update
 	aclocal.m4.
 
 	* ltconfig.in, ltmain.sh.in (link): Add support for creating
