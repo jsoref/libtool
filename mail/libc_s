@@ -109,7 +109,7 @@ else
 > Could you be more specific when you mention `some other System V Unix
 > systems'?  What are their canonical system names (i.e. *-*-sco3.2v4*)?
 
-By 'some other Unix systems' requiring that you explicitely specify the 
+By 'some other Unix systems' requiring that you explicitly specify the 
 shared library name when linking the program, I meant specifically:
 
 o Bull Open Software (Unix System V Release 4, but don't remember if it is x86)
