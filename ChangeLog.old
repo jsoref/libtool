@@ -23744,7 +23744,7 @@ Thu May 28 18:59:08 1998  Ian Lance Taylor  <ian@cygnus.com>
 
 1997-10-20  Gordon Matzigkeit  <gord@gnu.org>
 
-	* ltmain.in: Silly me.  Change a bunch of occurances of "* $dir *"
+	* ltmain.in: Silly me.  Change a bunch of occurrences of "* $dir *"
 	into *" $dir "*.
 
 	* ltconfig.in (pic_flag): PIC is the default for AIX.  From Mark
@@ -24096,7 +24096,7 @@ Thu May 28 18:59:08 1998  Ian Lance Taylor  <ian@cygnus.com>
 
 1997-07-21  Gordon Matzigkeit  <gord@gnu.ai.mit.edu>
 
-	* ltconfig.in, ltmain.sh.in: Replace all occurances of "sed 'X;
+	* ltconfig.in, ltmain.sh.in: Replace all occurrences of "sed 'X;
 	Y'" with "sed -e 'X' -e 'Y'".
 
 	* ltmain.sh.in (link): Finish full integration for `-dlopen' and
