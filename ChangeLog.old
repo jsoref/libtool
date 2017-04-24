@@ -14548,7 +14548,7 @@
 
 2003-08-27  Gary V. Vaughan  <gary@gnu.org>
 
-	* libtool.m4 (_LT_AC_CHECK_DLFCN): Use the interrim new
+	* libtool.m4 (_LT_AC_CHECK_DLFCN): Use the interim new
 	AC_CHECK_HEADER with compiler rather than preprocessor.
 	(AC_LIBTOOL_SETUP): ...which was introduced in autoconf-2.56, so
 	we AC_PREREQ that version.
