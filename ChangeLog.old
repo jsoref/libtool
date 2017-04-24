@@ -20178,7 +20178,7 @@
 	* libltdl/ltdl.c (lt_dladdsearchdir): Forgot to mallocate the
 	extra byte of memory for the teminating NUL, and forgot to
 	strcpy the original path in to the new memory before appending
-	the new path compononent.
+	the new path component.
 
 1999-03-27 Thomas Tanner  <tanner@gmx.de>
 
