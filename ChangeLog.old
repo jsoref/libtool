@@ -18927,7 +18927,7 @@
 
 1999-10-06  Gary V. Vaughan  <gary@gnu.org>
 
-	* NEWS: updtaed.
+	* NEWS: updated.
         * ltconfig.in: Accept osf5.
         Reported by Sascha Schumann <sascha@schumann.cx>
 
