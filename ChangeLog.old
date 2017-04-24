@@ -9236,7 +9236,7 @@
 
 2005-05-06  Gary V. Vaughan  <gary@gnu.org>
 
-	* libltdl/m4/ltdl.m4 (LT_WITH_LTDL): Propogate ltdl directory.
+	* libltdl/m4/ltdl.m4 (LT_WITH_LTDL): Propagate ltdl directory.
 
 2005-05-02  Ralf Wildenhues  <Ralf.Wildenhues@gmx.de>
 
@@ -9654,7 +9654,7 @@
 
 2005-03-24  Gary V. Vaughan  <gary@gnu.org>
 
-	* libtoolize.m4sh: Propogate --debug flag to sub-libtoolizes.
+	* libtoolize.m4sh: Propagate --debug flag to sub-libtoolizes.
 
 	* libtoolize.m4sh: Fix a typo, s/pkgvltdldirs/pkgvdatadirs/.
 	When using -I to test an uninstalled libtoolize, we need to add
@@ -11875,7 +11875,7 @@
 
 2004-08-29  Gary V. Vaughan  <gary@gnu.org>
 
-	Add a new `-weak' flag to tell libtool when not to propogate
+	Add a new `-weak' flag to tell libtool when not to propagate
 	dependency libraries from dlpreopened modules to libraries:
 
 	* config/ltmain.in: Support new -weak link mode option.  Adjust
@@ -12253,7 +12253,7 @@
 2004-07-25  Gary V. Vaughan  <gary@gnu.org>
 
 	* ltmain.in: Make sure that dependency libraries of -dlpreopened
-	libraries are propogated properly.
+	libraries are propagated properly.
 
 2004-07-23  Joe Orton  <joe@manyfish.co.uk>
 
@@ -13703,7 +13703,7 @@
 	then add a block to _LT_CONFIG_COMMANDS to bring it into the
 	libtool script.  The new way is to mark shell variables for
 	propogation using _LT_DECL for language independent variables, or
-	_LT_TAGDECL for those that need to be propogated in several
+	_LT_TAGDECL for those that need to be propagated in several
 	language flavours.  The marking can be done in the macro that
 	probes the variables, and this new m4 machinery takes care of
 	synchronising all the other bits of code at autoconf time:
@@ -16111,7 +16111,7 @@
 2001-09-03  Gary V. Vaughan  <gary@gnu.org>
 
 	From Marius Vollmer <mvo@zagadka.ping.de>:
-	* libltdl/ltdl.c (tryall_dlopen_module): Don't forget to propogate
+	* libltdl/ltdl.c (tryall_dlopen_module): Don't forget to propagate
 	errors over recurse levels.
 
 2001-09-03  Brad  <brad@comstyle.com>
