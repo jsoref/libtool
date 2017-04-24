@@ -18252,7 +18252,7 @@
 	far cleaner to use lt_dlforeach and lt_dlgetinfo.
 	* libltdl/ltdl.h:  Prototype deleted.
 	* doc/libtool.texi: Documentation deleted.
-	* NEWS: annoncement deleted.
+	* NEWS: announcement deleted.
 
 2000-02-23  Thomas Tanner  <tanner@ffii.org>
 
