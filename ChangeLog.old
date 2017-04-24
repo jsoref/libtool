@@ -8620,7 +8620,7 @@
 	    Ralf Wildenhues <Ralf.Wildenhues@gmx.de>
 
 	* libltdl/m4/ltoptions.m4 (_LT_SET_OPTIONS): Move option macro
-	dipatch..
+	dispatch..
 	(_LT_SET_OPTION): here.  Do not fail but warn on unknown
 	options.
 	(_LT_UNLESS_OPTIONS(win32-dll), LT_OPTION_DEFINE(dlopen)):
