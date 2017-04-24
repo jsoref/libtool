@@ -422,7 +422,7 @@ As I noted few days ago, the process of building a library (static or
 shared)
 with C++ can include addition steps, such as template instantiation.
 
-In libtool AR can be overrided from configure ${AR}, but ${ARFLAGS}
+In libtool AR can be overridden from configure ${AR}, but ${ARFLAGS}
 (cru)
 is hardcoded into ltconfig.sh
 
