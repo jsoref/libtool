@@ -13305,7 +13305,7 @@
 	* tests/sh.test: Test the config/ltmain.sh and libtoolize in the
 	build directory not the source directory, where they won't exist
 	during 'make distcheck'.
-	* ltmain.in: Revert one line of previous intendation clean-up
+	* ltmain.in: Revert one line of previous indentation clean-up
 	to enable one of the sh.test checks to pass.
 
 	* tests/cdemo/configure.ac: Drop AC_PREREQ back to 2.54, this
