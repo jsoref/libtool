@@ -479,7 +479,7 @@ environments!
 
 This won't be necessary under the new scheme =)O|
 
-> There are occaisions where you want to link to an import lib in
+> There are occasions where you want to link to an import lib in
 > preference to a dll -- for instance, libcygwin.a is an import lib, but
 > contains initializer code and actual function implementations for some
 > functions that are not included in the dll itself.  If you attempt to
