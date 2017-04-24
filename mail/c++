@@ -102,7 +102,7 @@ X-Gnus-Article-Number: 5   Mon Nov  2 17:16:26 1998
 > wanted to comment on the dlopen support that you mention below:
 >
 >  SK> BTW: I made some efforts to use the dlopen support in libtool. I
->  SK> think, it works the way I tried it. I link staticly, if dlfcn.h
+>  SK> think, it works the way I tried it. I link statically, if dlfcn.h
 >  SK> or libdl is not supported. For this I patched libtool.m4 to
 >  SK> support this.  I had to remove the --enable-shared/static options
 >  SK> and replaced it with --disable-dlopen option, since it looks
