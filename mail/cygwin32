@@ -700,7 +700,7 @@ __declspec(dllimport).  Here's a patch for your files.
 '--export-all')
 
 As far as documentation, there's the mailing list, and 'ld --help' and
-Mumit's (really out-of-date) dll-helpers packaqe at
+Mumit's (really out-of-date) dll-helpers package at
 http://www.xraylith.wisc.edu/~khan/software/gnu-win32/dllhelpers.html. 
 Would you like to update that package for the current capabilities of
 ld/gcc ?  Mumit's tutorial is heavily 'dlltool' based, rather than 'gcc
