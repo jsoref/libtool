@@ -195,7 +195,7 @@ that matters, but the type of object files.
 
 Our commercial product includes a library and a few
 dynamically-loadable modules that make that library accessible to
-various interpretetd languages (TCL, Perl, PHP3 and Python at the
+various interpreted languages (TCL, Perl, PHP3 and Python at the
 moment, with more coming).  We don't distribute a shared library
 anymore because when we did this caused a ton of trouble (most people
 just couldn't get it configured correctly).  I haven't yet found a
