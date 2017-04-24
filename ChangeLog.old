@@ -2853,7 +2853,7 @@
 	testsuite: avoid failures due to old Automake.
 	* tests/configure-iface.at (installable libltdl)
 	(--with-ltdl-include/lib, --with-included-ltdl):
-	Speficy libmodule_la_SOURCES in Makefile.am as the default
+	Specify libmodule_la_SOURCES in Makefile.am as the default
 	source file naming scheme changed in Automake 1.8.
 	* tests/nonrecursive.at (_LT_AT_LTDL_SETUP): Require Automake
 	1.9.6.
@@ -14275,7 +14275,7 @@
 2003-10-15  Bob Friesenhahn  <bfriesen@simple.dallas.tx.us>
 
 	* doc/libtool.texi (AC_LIBTOOL_TAGS): Incorporate documentation
-	for AC_LIBTOOL_TAGS macro to specifify libtool tags. The now
+	for AC_LIBTOOL_TAGS macro to specify libtool tags. The now
 	defunct --with-tags option was never documented.
 
 2003-10-15  Albert Chin-A-Young  <china@thewrittenword.com>
