@@ -24156,7 +24156,7 @@ Thu May 28 18:59:08 1998  Ian Lance Taylor  <ian@cygnus.com>
 
 1997-07-12  Gordon Matzigkeit  <gord@gnu.ai.mit.edu>
 
-	* demo/Makefile.am: Add helldl, made from dlmain.c, to demostrate
+	* demo/Makefile.am: Add helldl, made from dlmain.c, to demonstrate
 	`-dlopen' usage.
 
 	* demo/dlmain.c: New file to demonstrate preloaded modules.
