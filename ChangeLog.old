@@ -10817,7 +10817,7 @@
 	more coding standards for these files.
 
 	* config/general.m4sh (sed_double_backslash): Undo an
-	over-optimisation.
+	over-optimization.
 
 2004-10-21  Gary V. Vaughan  <gary@gnu.org>
 
