@@ -22301,12 +22301,12 @@
 	(deplibs_check_method): use file_magic for win32, but compare the
 	output of `objdump -f' with the regex (see below).
 	(archive_cmds, archive_sym_cmds): use compile_dependencylibs for
-	each $CC invokation (see below).
+	each $CC invocation (see below).
 
 	* ltmain.in: Set allow_undefined to `no' for win32 variants by
 	default, otherwise it is impossible to link a dll without forcing
 	the makefile maintainer to figure out whether to pass
-	--no-undefined at every libtool invokation.
+	--no-undefined at every libtool invocation.
 	(compile_dependencylibs): save the list of dependency library
 	flags needed for a deplib build on win32.
 	(link_against_libtool_libs): commented out the check for this;  if
