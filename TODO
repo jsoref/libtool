@@ -303,7 +303,7 @@ GNU Libtool
     So...I don't think it makes much difference *right now* in the amount of
     code required, or the number of functions implemented. At some point in the
     future we might want to generalize to an M+N scheme.  For the existing win32
-    $hosts, all of the funtionality would be on "one side" of the 2-step
+    $hosts, all of the functionality would be on "one side" of the 2-step
     conversion; the "other side" would be noop.  But we won't worry about the
     implicit quadratic complexity of the existing scheme for now.
 
