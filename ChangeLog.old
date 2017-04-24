@@ -1443,7 +1443,7 @@
 	* tests/getopt-m4sh.at (_LT_AT_XSI_FUNC_EXTRACT): Rename to
 	_LT_AT_EXTENDED_SHELL_FUNC_EXTRACT.
 	(_LT_AT_EXTENDED_SHELL_FUNC_EXTRACT): Change regular expression to
-	match new replacable function decorator comments.
+	match new replaceable function decorator comments.
 
 2010-07-08  Peter Rosin  <peda@lysator.liu.se>
 
