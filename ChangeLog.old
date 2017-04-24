@@ -22632,7 +22632,7 @@
 1998-12-02  Gary V. Vaughan  <gary@gnu.org>
 
 	* libltdl/configure.in: look for string.h or else strings.h, and
-	also check for ANSI strrchr() function.  Fix `undescore before
+	also check for ANSI strrchr() function.  Fix `underscore before
 	symbols' macro to not rely on a.out (cygwin uses a.exe!).  Fix
 	`underscore for dlsym' to set cache variable properly, not just in
 	environment of AC_DEFINE(NEED_USCORE).
