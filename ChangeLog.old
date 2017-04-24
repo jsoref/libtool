@@ -2427,7 +2427,7 @@
 	(vm_open, vm_close, vm_sym): Make use of previous.
 	(LOCALFREE): New macro to help free the Windows error string.
 	(vl_exit): Make use of previous.
-	* tests/loadlibarry.at: New file, new test that makes sure
+	* tests/loadlibrary.at: New file, new test that makes sure
 	the loadlibrary loader reports non-standard error messages.
 	* Makefile.am (TESTSUITE_AT): Add above test.
 
