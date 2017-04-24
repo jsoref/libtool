@@ -17968,13 +17968,13 @@
 	suitably quoted for M4 expansion.  This code needs to be near
 	the top of configure.in as it calls itself recursively, so I
 	am using AC_DIVERSION_NOTICE (or simply NOTICE on CVS
-	Autoconf).  The value of ECHO is also substitued into the
+	Autoconf).  The value of ECHO is also substituted into the
 	Makefile to be used when Make calls ltconfig to generate
 	libtool, so another layer of quotation is required for the
 	Makefile.
 	(AC_LIBTOOL_SETUP):  Use it.
 	* ltconfig.in: Accept a value for ECHO from the environment, and
-	carefully substitue for $0 if it is present in the ECHO value.
+	carefully substitute for $0 if it is present in the ECHO value.
 	Because ECHO was quoted for Make, when ltconfig is called by
 	configure, it is overquoted, and one layer of quotes must be
 	stripped.
