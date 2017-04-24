@@ -17620,7 +17620,7 @@
 	* libtool.m4 (archive_expsym_cmds):  Support for -export-symbol
 	option on Tru64.
 	(hardcode_libdir_flag_spec): Fixed cxx throwing error while using
-	libtool.  Done by passing -rpath directlty to the compiler.
+	libtool.  Done by passing -rpath directly to the compiler.
 
 2000-10-27  Robert Boehne  <rboehne@ricardo-us.com>
 
