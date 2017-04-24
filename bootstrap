@@ -5039,7 +5039,7 @@ func_get_version ()
     _G_app=$1
 
     # Rather than uncomment the sed script in-situ, strip the comments
-    # programatically before passing the result to $SED for evaluation.
+    # programmatically before passing the result to $SED for evaluation.
     sed_get_version=`$ECHO '# extract version within line
           s|.*[v ]\{1,\}\([0-9]\{1,\}\.[.a-z0-9-]*\).*|\1|
           t done
