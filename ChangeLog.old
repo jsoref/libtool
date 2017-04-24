@@ -20388,7 +20388,7 @@
 	  a dll to load!  Anyway, when set to yes this prevents a gratuitous
 	  warning.
 	* ltmain.in (deplib): The cygwin environment doesn't actually have
-	  -lm, and although the linker fakes having one, specifiying it to
+	  -lm, and although the linker fakes having one, specifying it to
 	  libtool will break ILD, so we ignore it when generating
 	  dependencies.
 
