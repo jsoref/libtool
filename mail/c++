@@ -278,7 +278,7 @@ This is a multi-part message in MIME format.
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 
-envirowment:
+environment:
 
 uname -a:
 
@@ -440,7 +440,7 @@ about
 Sun Solaris Workshop:
 /--------
   When you want build libraries with implicit templates instaniated in, 
-  You must puss to ltconfig next envirowmnent variables:
+  You must puss to ltconfig next environment variables:
   AR=CC
   ARFLAGS=$CXXFLAGS -xar -o
 ----------/ 
