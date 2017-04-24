@@ -22866,7 +22866,7 @@
 
 1998-11-07  Alexandre Oliva  <oliva@dcc.unicamp.br>
 
-	* ltconfig.in: add --falback-echo, to be used if everything else
+	* ltconfig.in: add --fallback-echo, to be used if everything else
 	fails.  The tests now check the behavior of $echo for very large
 	strings, because some echo commands would just core dump (e.g.,
 	Solaris' printf).  If too large strings fail, smaller ones are
@@ -22875,7 +22875,7 @@
 	echo will be defined in the libtool script so as to re-run itself,
 	not ltconfig
 	* ltmain.in: add --fallback-echo
-	(qecho) ensure that, if --falback-echo is being used, qecho is
+	(qecho) ensure that, if --fallback-echo is being used, qecho is
 	defined with the full pathname of the libtool script
 
 	* tests/sh.test (test X): ensure that the double-quote supposed to be
