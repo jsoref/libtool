@@ -20232,7 +20232,7 @@
 	* ltmain.in: don't allow relative run-paths, fixed a typo in a warning,
 	  ignore -dlopen self for libraries and objects,
 	  only accept -L paths that exist, minor cleanups,
-	  bugfix: add -lc for normal libraries, not convenicence libraries
+	  bugfix: add -lc for normal libraries, not convenience libraries
 	  removed offensive warnings/comments
 
 1999-03-24  Alexandre Oliva  <oliva@dcc.unicamp.br>
