@@ -1058,7 +1058,7 @@ New in 1.2a - 1998-04-19, Gordon Matzigkeit:
 
 New in 1.2 - 1998-03-20, Gordon Matzigkeit:
 * Minor bug fixes to provide a stable public release.
-* Libtool no longer cseses Solaris printf to barf due to silly
+* Libtool no longer causes Solaris printf to barf due to silly
   2110-byte static buffers.
 
 New in 1.1 - 1998-03-08, Gordon Matzigkeit:
