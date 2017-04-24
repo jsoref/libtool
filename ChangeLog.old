@@ -14173,7 +14173,7 @@
 	defined, unless __CYGWIN__ or __CYGWIN32__ are defined.
 	(LT_SCOPE): Now set without reference to __CYGWIN__ definition,
 	since __WINDOWS__ now implies !__CYGWIN__ after canonicalization.
-	(LT_PARAMS, lt_ptr): Use canonicalised __WINDOWS__ to determine
+	(LT_PARAMS, lt_ptr): Use canonicalized __WINDOWS__ to determine
 	which values to set these macros to.
 
 2003-11-05  Gary V. Vaughan  <gary@gnu.org>
@@ -22686,7 +22686,7 @@
 	shell-meta escaped was fixed, we could use '\\' separators on all
 	three. AC_REQUIRE'ed AC_CANONICAL_HOST.
 
-	* libtool.m4 (AM_PROG_LD): Cannonicalize the absolute path for the
+	* libtool.m4 (AM_PROG_LD): Canonicalize the absolute path for the
 	ld program;  The order is funny to provide canonicalization to
 	paths with '\\' separators as well as '/'.
 	* ltconfig.in: ditto.

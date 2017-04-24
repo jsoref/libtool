@@ -88,7 +88,7 @@ or obtained by writing to the Free Software Foundation, Inc.,
 # define LT_DLSYM_CONST const
 #endif
 
-/* Canonicalise Windows and Cygwin recognition macros.
+/* Canonicalize Windows and Cygwin recognition macros.
    To match the values set by recent Cygwin compilers, make sure that if
    __CYGWIN__ is defined (after canonicalization), __WINDOWS__ is NOT!  */
 #if defined __CYGWIN32__ && !defined __CYGWIN__
