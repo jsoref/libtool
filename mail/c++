@@ -291,7 +291,7 @@ libtool 1.2
 Problem:
 
   building of shared libraries not supported.
- (output of simple conffigure is attached.)
+ (output of simple configure is attached.)
 
   and in reality, the process of linking CC library is different,
  because generation of templates can be doing on stage of linking.

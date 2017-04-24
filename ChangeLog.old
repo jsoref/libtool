@@ -15914,7 +15914,7 @@
 	* configure.ac: General modernisation and cleanup.
 	* cdemo/configure.ac: Ditto.
 	* demo/configure.ac: Ditto.
-	* depdemo/configrue.ac: Ditto.
+	* depdemo/configure.ac: Ditto.
 	* ltdl/configure.ac: Ditto.
 	* ltdldemo/configure.ac: Ditto.
 	* mdemo/configure.ac: Ditto.
