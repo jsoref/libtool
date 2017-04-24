@@ -328,7 +328,7 @@ dlopen() tend to be passing C names rather than assembler names.
 
 Probably most uses of dlopen() are for C names, and so inserting
 the prefix would work well in most cases.  However, inserting the
-prefix would also make it impossible to look up assember names that
+prefix would also make it impossible to look up assembler names that
 don't start with underscore using dlopen().
 
 It's a bit like the issue of text-versus-binary:
