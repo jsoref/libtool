@@ -21723,7 +21723,7 @@
 	  the libtool package directory
 	* ltconfig.in: removed $thread_safe_flags from Andrey Slepuhin's
 	  AIX patch, renamed sys_lib_search_path to sys_lib_search_path_spec,
-	  some reformatting, fixed typo in deplibs_check_method (unkwnon)
+	  some reformatting, fixed typo in deplibs_check_method (unknown)
 	* ltmain.in: documented -o for compile mode, some reformatting,
 	  renamed -avoid-versioning to -avoid-version
 	  renamed sys_lib_search_path to sys_lib_search_path_spec
