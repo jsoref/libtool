@@ -15745,7 +15745,7 @@
 	hack, so we just say the pic is the default.
 	(AC_LIBTOOL_PROG_LD_SHLIBS) [cygwin]: Extract symbols from a
 	library normally.
-	[cygwin]: Declare C++ compiler characterisics for g++, taking into
+	[cygwin]: Declare C++ compiler characteristics for g++, taking into
 	account the new auto-import support in cygwin ld.
 	* ltmain.in (specialdeplibs) [cygwin]: Be careful about
 	eliminating duplicate -lgcc's from the link line.
