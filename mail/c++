@@ -229,7 +229,7 @@ files from xxx.o to xxx.lo. The SUN C++ compiler builds for himself a
 Template.DB
 and this somehow doens't match anymore with the object file.
 
-Have you ever heard of this problem and do you eventually allready have
+Have you ever heard of this problem and do you eventually already have
 a solution?
 
 I search in Deja News but couldn't find anything.
