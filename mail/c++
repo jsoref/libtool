@@ -439,7 +439,7 @@ Also, I think somewhere in documentation must exists the  next note
 about 
 Sun Solaris Workshop:
 /--------
-  When you want build libraries with implicit templates instaniated in, 
+  When you want build libraries with implicit templates instantiated in, 
   You must puss to ltconfig next environment variables:
   AR=CC
   ARFLAGS=$CXXFLAGS -xar -o
