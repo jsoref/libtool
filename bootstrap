@@ -2658,7 +2658,7 @@ func_extract_trace ()
     # First we give a minimal set of macro declarations to M4 to prime
     # it for reading Autoconf macros, while still providing some of the
     # functionality generally used at m4-time to supply dynamic
-    # arguments to Autocof functions, but without following
+    # arguments to Autoconf functions, but without following
     # 'm4_s?include' files.
     _G_mini='
         dnl  Initialisation.
