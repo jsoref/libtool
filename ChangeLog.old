@@ -14172,7 +14172,7 @@
 	* libltdl/ltdl.h (__WINDOWS__): Define this if _WIN32 or WIN32 are
 	defined, unless __CYGWIN__ or __CYGWIN32__ are defined.
 	(LT_SCOPE): Now set without reference to __CYGWIN__ definition,
-	since __WINDOWS__ now implies !__CYGWIN__ after canonicalisation.
+	since __WINDOWS__ now implies !__CYGWIN__ after canonicalization.
 	(LT_PARAMS, lt_ptr): Use canonicalised __WINDOWS__ to determine
 	which values to set these macros to.
 
