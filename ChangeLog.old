@@ -17764,7 +17764,7 @@
 
 	libtool.m4 (AC_PROG_LIBTOOL):  Removed, as it was triggering a
 	bug in Autoconf-2.13 AC_REQUIRE implementation which inserted
-	some of the expanded tests too early in the generaated configure.
+	some of the expanded tests too early in the generated configure.
 	(_AC_PROG_LIBTOOL): renamed to AC_PROG_LIBTOOL, and defines
 	itself to an empty expansion to prevent multiple expansions.
 	configure.in (AC_LIBTOOL_SETUP): Replaced by a call to
