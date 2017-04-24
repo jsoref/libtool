@@ -218,7 +218,7 @@ Content-Transfer-Encoding: 7bit
 
 Hi
 
-I'd like to use libtool (ltmain.sh (GNU libtool) 1.2 togheter with the SUN C++
+I'd like to use libtool (ltmain.sh (GNU libtool) 1.2 together with the SUN C++
 compiler (CC: WorkShop Compilers 4.2 30 Oct 1996 C++ 4.2) on Solaris 5.5.1.
 
 Everything works good  except if I'm trying to use C++ templates in my code and
